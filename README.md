@@ -98,7 +98,9 @@ Copyright notice and social media links.
 Future Enhancements
 
 Blog Integration: Add a section to share articles about my learning journey and development tips.
+
 Dark Mode: Implement a toggle for light and dark themes.
+
 Portfolio Expansion: Continuously add new projects and features as I grow my skill set.
 
 Contact
@@ -106,5 +108,7 @@ Contact
 Feel free to reach out if you have any questions, feedback, or opportunities:
 
 Email: christian_rose@live.ca
+
 GitHub: github.com/CRose1497
+
 LinkedIn: linkedin.com/in/christian-rose-b00302333
