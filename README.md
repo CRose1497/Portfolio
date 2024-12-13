@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 Clone the repository:
 bash
 
-git clone https://github.com/CRose1497/portfolio-website.git
+git clone https://github.com/CRose1497/Portfolio
 Navigate to the project directory:
 bash
 
