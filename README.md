@@ -1,5 +1,7 @@
 Christian Rose - Portfolio Website
-Welcome to my portfolio website! This project serves as a showcase of my skills, projects, and accomplishments as a software development student. 
+
+Welcome to my portfolio website! 
+This project serves as a showcase of my skills, projects, and accomplishments as a software development student. 
 The site is designed to highlight my journey, provide an interactive experience for visitors, and demonstrate my expertise in modern web development.
 
 Table of Contents
