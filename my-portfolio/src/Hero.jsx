@@ -6,7 +6,7 @@ const Hero = () => {
   // useEffect hook to run code on component mount
   useEffect(() => { const heroSection = document.querySelector('.hero');
     if (heroSection) {
-      heroSection.style.backgroundColor = '#2c2f3a'; // Change background color of hero section
+      heroSection.style.backgroundColor = '#2c2f3a'; 
     }
 
     // Add event listeners to hero image
