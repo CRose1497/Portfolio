@@ -23,11 +23,13 @@ Future Enhancements
 Contact
 
 About the Project
+
 This portfolio is a dynamic, fully responsive web application that I built to showcase my projects, skills, and achievements.
 The site incorporates modern web development tools and best practices, making it a professional and user-friendly experience. 
 It also includes interactive elements, such as a meeting scheduler and a DOM manipulation widget.
 
 Features
+
 Responsive Design: Mobile-friendly layout to ensure seamless access across devices.
 Interactive Elements: Includes a meeting scheduler and a DOM-manipulated snake game to fulfill dynamic JavaScript requirements.
 Project Showcase: Highlights three major projects with descriptions, links, and images.
@@ -35,6 +37,7 @@ Contact Form: Users can send messages and schedule meetings directly from the si
 Modern Aesthetics: A cohesive and visually appealing design built to approximate a Figma mockup.
 
 Tech Stack
+
 Languages: HTML, CSS, JavaScript
 Frameworks & Libraries: React, React Router
 Additional Tools: Font Awesome for icons, React Calendar for the meeting scheduler, Vite for project setup
@@ -59,8 +62,10 @@ bash
 
 npm run dev
 Open the application in your browser at http://localhost:3000.
+
 Usage
-Visit the live version of my portfolio at Your Portfolio URL Here.
+
+Visit the live version of my portfolio at https://github.com/CRose1497/Portfolio.
 
 Pages Overview
 Home (Hero)
