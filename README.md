@@ -5,13 +5,21 @@ This project serves as a showcase of my skills, projects, and accomplishments as
 The site is designed to highlight my journey, provide an interactive experience for visitors, and demonstrate my expertise in modern web development.
 
 Table of Contents
+
 About the Project
+
 Features
+
 Tech Stack
+
 Installation
+
 Usage
+
 Pages Overview
+
 Future Enhancements
+
 Contact
 
 About the Project
