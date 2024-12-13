@@ -69,32 +69,40 @@ Usage
 Visit the live version of my portfolio at https://github.com/CRose1497/Portfolio.
 
 Pages Overview
+
 Home (Hero)
+
 A welcome section with a brief introduction and a professional photo.
 Directs visitors to explore projects and learn more about me.
 
 About
+
 A concise biography describing my skills, journey, and passion for web development.
 Features a professional photo to add a personal touch.
 
 Projects
+
 Showcases three major projects with descriptions, images, and links to GitHub repositories.
 Includes dynamic DOM manipulation via scroll tracking.
 
 Contact
+
 Contact form for visitors to send messages directly to me.
 Interactive meeting scheduler with a date and time picker and optional message input.
 Displays my LinkedIn and GitHub profiles for networking.
 
 Footer
+
 Copyright notice and social media links.
 
 Future Enhancements
+
 Blog Integration: Add a section to share articles about my learning journey and development tips.
 Dark Mode: Implement a toggle for light and dark themes.
 Portfolio Expansion: Continuously add new projects and features as I grow my skill set.
 
 Contact
+
 Feel free to reach out if you have any questions, feedback, or opportunities:
 
 Email: christian_rose@live.ca
